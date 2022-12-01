@@ -1,1 +1,3 @@
 # kindle_xml_to_tsv
+
+PCのKindleアプリが作成するXMLファイルを読んでTSV出力するプログラム。
