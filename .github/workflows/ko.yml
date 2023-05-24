@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: ko-build/setup-ko@v0.6
-      - run: ko build
+      - run: ko build ./cmd/kindle_xml_to_tsv
  
